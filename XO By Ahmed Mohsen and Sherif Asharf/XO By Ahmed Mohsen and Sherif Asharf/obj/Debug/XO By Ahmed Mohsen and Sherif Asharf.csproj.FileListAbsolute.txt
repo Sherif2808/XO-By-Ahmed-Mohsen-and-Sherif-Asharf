@@ -1,0 +1,10 @@
+C:\Users\Sherif\source\repos\XO By Ahmed Mohsen and Sherif Asharf\XO By Ahmed Mohsen and Sherif Asharf\bin\Debug\XO By Ahmed Mohsen and Sherif Asharf.exe.config
+C:\Users\Sherif\source\repos\XO By Ahmed Mohsen and Sherif Asharf\XO By Ahmed Mohsen and Sherif Asharf\bin\Debug\XO By Ahmed Mohsen and Sherif Asharf.exe
+C:\Users\Sherif\source\repos\XO By Ahmed Mohsen and Sherif Asharf\XO By Ahmed Mohsen and Sherif Asharf\bin\Debug\XO By Ahmed Mohsen and Sherif Asharf.pdb
+C:\Users\Sherif\source\repos\XO By Ahmed Mohsen and Sherif Asharf\XO By Ahmed Mohsen and Sherif Asharf\obj\Debug\XO By Ahmed Mohsen and Sherif Asharf.csproj.AssemblyReference.cache
+C:\Users\Sherif\source\repos\XO By Ahmed Mohsen and Sherif Asharf\XO By Ahmed Mohsen and Sherif Asharf\obj\Debug\XO_By_Ahmed_Mohsen_and_Sherif_Asharf.Form1.resources
+C:\Users\Sherif\source\repos\XO By Ahmed Mohsen and Sherif Asharf\XO By Ahmed Mohsen and Sherif Asharf\obj\Debug\XO_By_Ahmed_Mohsen_and_Sherif_Asharf.Properties.Resources.resources
+C:\Users\Sherif\source\repos\XO By Ahmed Mohsen and Sherif Asharf\XO By Ahmed Mohsen and Sherif Asharf\obj\Debug\XO By Ahmed Mohsen and Sherif Asharf.csproj.GenerateResource.cache
+C:\Users\Sherif\source\repos\XO By Ahmed Mohsen and Sherif Asharf\XO By Ahmed Mohsen and Sherif Asharf\obj\Debug\XO By Ahmed Mohsen and Sherif Asharf.csproj.CoreCompileInputs.cache
+C:\Users\Sherif\source\repos\XO By Ahmed Mohsen and Sherif Asharf\XO By Ahmed Mohsen and Sherif Asharf\obj\Debug\XO By Ahmed Mohsen and Sherif Asharf.exe
+C:\Users\Sherif\source\repos\XO By Ahmed Mohsen and Sherif Asharf\XO By Ahmed Mohsen and Sherif Asharf\obj\Debug\XO By Ahmed Mohsen and Sherif Asharf.pdb
